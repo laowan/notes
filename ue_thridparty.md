@@ -1,1 +1,116 @@
+| 名字 | 功能 |
+| ---- | ---- |
+| ADO| |
+| Alembic| |
+| AMD| |
+| Android| |
+| AndroidPermission| |
+| ANGLE| |
+| asio| |
+| AtomicQueue| |
+| BLAKE3| |
+| Blosc| |
+| Boost| |
+| Breakpad| |
+| BuildScripts| |
+| Catch2| |
+| CEF3| |
+| CMake| |
+| coremod| |
+| Crunch| |
+| CryptoPP| |
+| DirectShow| |
+| Distorm| |
+| dlmalloc| |
+| DotNetZip| |
+| Eigen| |
+| EOSSDK| |
+| Expat| |
+| Facebook| |
+| FakeIt| |
+| fastJSON| |
+| FBX| |
+| FontConfig| |
+| ForsythTriOO| |
+| FreeImage| |
+| FreeType2| |
+| glslang| |
+| GoogleARCore| |
+| GoogleGameSDK| |
+| GoogleOboe| |
+| GooglePlay| |
+| GoogleTest| |
+| HarfBuzz| |
+| heapprofd| |
+| HLMediaLibrary| |
+| hlslcc| |
+| HWCPipe| |
+| ICU| |
+| Imath| |
+| Intel| |
+| IOS| |
+| jemalloc| |
+| Kiss_FFT| |
+| libcurl| |
+| libjpeg-turbo| |
+| libJPG| |
+| libOpus| |
+| libPhonon| |
+| libPNG| |
+| libSampleRate| |
+| libstrophe| |
+| LibTiff| |
+| libWebSockets| |
+| libxml2| |
+| Licenses| |
+| llvm| |
+| MCPP| |
+| metis| |
+| MikkTSpace| |
+| mimalloc| |
+| mtlpp| |
+| nanosvg| |
+| NVIDIA| |
+| nvtesslib| |
+| nvTextureTools| |
+| nvTriStrip| |
+| Oculus| |
+| Ogg| |
+| [OneSky](https://www.oneskyapp.com/)| 50+ Languages, 1,000+ Translators, 1 Platform—A Complete Localization Solution. |
+| [OpenAL](https://www.openal.org/)| cross-platform 3D audio API |
+| [openexr](https://www.openexr.com/)| the specification and reference implementation of the EXR file format |
+| [OpenGL](https://www.opengl.org/)| cross-language, cross-platform application programming interface (API) for rendering 2D and 3D vector graphics |
+| [OpenSSL](https://www.openssl.org/)| a robust, commercial-grade, full-featured toolkit for general-purpose cryptography and secure communication |
+| [OpenSubdiv](https://graphics.pixar.com/opensubdiv/docs/intro.html)| high performance subdivision surface (subdiv) evaluation on massively parallel CPU and GPU architectures |
+| [OpenVDB](https://www.openvdb.org/about/)| OpenVDB represents high-resolution sparse volumes compactly both in memory and on disk, via a novel hierarchical data structure that offers an effectively infinite 3D index space and via a custom, lossless codec for fast file I/O. |
+| OpenVR| |
+| OpenXR| |
+| Perforce| |
+| PhysX3| |
+| PLCrashReporter| |
+| portmidi| |
+| Protobuf| |
+| Python3| |
+| Qualcomm| |
+| Re2| |
+| RenderDoc| |
+| rpclib| |
+| SDL2| |
+| ShaderConductor| |
+| SpeedTree| |
+| SPIRV-Reflect| |
+| Steamworks| |
+| Tencent| |
+| Unix| |
+| vcpkg| |
+| VHACD| |
+| Vorbis| |
+| Vulkan| |
+| WebRTC| |
+| Windows| |
+| WindowsMixedRealityInterop| |
+| WinHttp| |
+| WiX| |
+| xxhash| |
+| zlib| |
 
