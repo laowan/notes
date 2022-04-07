@@ -1,11 +1,12 @@
-| 名字 | 功能 |
+| NAME | DESCRIPTION |
 | ---- | ---- |
-| ADO| |
-| Alembic| |
-| AMD| |
+| [ADO](http://www.functionx.com/vbaccess/Lesson53.htm)| library that was developed to allow programmers on various environments to create and manage Microsoft Access databases |
+| [Alembic](https://github.com/alembic/alembic)| open framework for storing and sharing scene data that includes a C++ library, a file format, and client plugins and applications. |
+| [AMD AGS](https://github.com/GPUOpen-LibrariesAndSDKs/AGS_SDK)| query AMD GPU software and hardware state information|
+| [AMD AMF](https://github.com/GPUOpen-LibrariesAndSDKs/AMF) | multimedia framework that abstracts away most of the platform and API-specific details and allows for easy implementation of multimedia applications|
 | Android| |
 | AndroidPermission| |
-| ANGLE| |
+| [ANGLE](https://github.com/google/angle)| Almost Native Graphics Layer Engine |
 | asio| |
 | AtomicQueue| |
 | BLAKE3| |
@@ -70,7 +71,12 @@
 | mimalloc| |
 | mtlpp| |
 | nanosvg| |
-| NVIDIA| |
+| [NVIDIA CUDA](https://developer.nvidia.com/cuda-toolkit)| GPU-accelerated libraries|
+| [NVIDIA GeForceNOW](https://en.wikipedia.org/wiki/GeForce_Now)| cloud game service|
+| [NVIDIA GPUDirect](https://developer.nvidia.com/gpudirect)| Enhancing Data Movement and Access for GPUs|
+| [NVIDIA NVaftermath](https://developer.nvidia.com/nsight-aftermath)| simple library you integrate into your D3D12 or Vulkan game’s crash reporter to generate GPU "mini-dumps" when a TDR or exception occurs|
+| [NVIDIA NVAPI](https://developer.nvidia.com/nvapi)| software development kit that allows direct access to NVIDIA GPUs and drivers on all windows platforms|
+| [NVIDIA NVENCODE](https://developer.nvidia.com/nvidia-video-codec-sdk) | hardware accelerated video encode and decode|
 | nvtesslib| |
 | nvTextureTools| |
 | nvTriStrip| |
